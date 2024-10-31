@@ -1,7 +1,6 @@
 ## Named Entity Recognition
 
 ### Subjects & Challenges:
-- 
 - Corpus-> Paragraph
 - Documents -> Sentence
 - Vocabulary -> Unique words
